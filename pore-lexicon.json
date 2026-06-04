@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Bio-Pore Terminology Reference",
+  "domain": "3D Bioprinting and Tissue Engineering",
+  "source_framework": "Reasoning on Pore Terminology in 3D Bioprinting (Trifonov et al., 2024)",
+  "lexicon": [
+    {
+      "term": "parvo-pore",
+      "definition": "Interconnected pore structure within a 3D-printed scaffold or hydrogel matrix having a diameter less than 25 micrometers.",
+      "scale_range": "d < 25 µm"
+    },
+    {
+      "term": "medio-pore",
+      "definition": "Interconnected pore structure within a 3D-printed scaffold or hydrogel matrix having a diameter between 25 and 100 micrometers.",
+      "scale_range": "25 µm < d < 100 µm"
+    },
+    {
+      "term": "magno-pore",
+      "definition": "Interconnected pore structure within a 3D-printed scaffold or hydrogel matrix having a diameter greater than 100 micrometers.",
+      "scale_range": "d > 100 µm"
+    }
+  ]
+}
