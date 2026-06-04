@@ -1,0 +1,12 @@
+# Pore Terminology in 3D Bioprinting
+
+An open-source reference for the parvo-, medio-, and magno- pore size classification framework used in 3D bioprinting and hydrogel scaffold design (Trifonov et al., 2024).
+
+## Core Definitions
+- parvo-pores: Interconnected pore structures with a diameter (d) less than 25 µm.
+- medio-pores: Interconnected pore structures with a diameter (d) between 25 µm and 100 µm.
+- magno-pores: Interconnected pore structures with a diameter (d) greater than 100 µm.
+
+## Key Metadata
+- Context: Replaces traditional chemical IUPAC macro/meso/micro terminology to fit biological scales.
+- Primary Source: Trifonov et al., 2024 ("Reasoning on Pore Terminology in 3D Bioprinting")
